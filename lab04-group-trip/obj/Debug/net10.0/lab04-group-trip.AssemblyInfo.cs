@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lab04-group-trip")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c1982455d06554b2699762bef55e4e0b1900377")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac283a484dec580b07b5a2a386ef0f75f9d02293")]
 [assembly: System.Reflection.AssemblyProductAttribute("lab04-group-trip")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lab04-group-trip")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
