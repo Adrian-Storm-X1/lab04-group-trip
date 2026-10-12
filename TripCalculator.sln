@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripCalculator", "TripCalculator\TripCalculator.csproj", "{6C67B118-6AFB-4CCB-86B6-4E92347B7DED}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Practice", "Practice", "{4999A393-3DA7-F281-F13A-F9FD992FD574}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "messaround1", "Practice\messaround1\messaround1.csproj", "{AE9A3D2C-21B5-41F8-85E9-196BE68D2EFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C67B118-6AFB-4CCB-86B6-4E92347B7DED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C67B118-6AFB-4CCB-86B6-4E92347B7DED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C67B118-6AFB-4CCB-86B6-4E92347B7DED}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{6C67B118-6AFB-4CCB-86B6-4E92347B7DED}.Debug|x64.Build.0 = Debug|Any CPU
+		{6C67B118-6AFB-4CCB-86B6-4E92347B7DED}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6C67B118-6AFB-4CCB-86B6-4E92347B7DED}.Debug|x86.Build.0 = Debug|Any CPU
+		{6C67B118-6AFB-4CCB-86B6-4E92347B7DED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C67B118-6AFB-4CCB-86B6-4E92347B7DED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C67B118-6AFB-4CCB-86B6-4E92347B7DED}.Release|x64.ActiveCfg = Release|Any CPU
+		{6C67B118-6AFB-4CCB-86B6-4E92347B7DED}.Release|x64.Build.0 = Release|Any CPU
+		{6C67B118-6AFB-4CCB-86B6-4E92347B7DED}.Release|x86.ActiveCfg = Release|Any CPU
+		{6C67B118-6AFB-4CCB-86B6-4E92347B7DED}.Release|x86.Build.0 = Release|Any CPU
+		{AE9A3D2C-21B5-41F8-85E9-196BE68D2EFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE9A3D2C-21B5-41F8-85E9-196BE68D2EFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE9A3D2C-21B5-41F8-85E9-196BE68D2EFB}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{AE9A3D2C-21B5-41F8-85E9-196BE68D2EFB}.Debug|x64.Build.0 = Debug|Any CPU
+		{AE9A3D2C-21B5-41F8-85E9-196BE68D2EFB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{AE9A3D2C-21B5-41F8-85E9-196BE68D2EFB}.Debug|x86.Build.0 = Debug|Any CPU
+		{AE9A3D2C-21B5-41F8-85E9-196BE68D2EFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE9A3D2C-21B5-41F8-85E9-196BE68D2EFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE9A3D2C-21B5-41F8-85E9-196BE68D2EFB}.Release|x64.ActiveCfg = Release|Any CPU
+		{AE9A3D2C-21B5-41F8-85E9-196BE68D2EFB}.Release|x64.Build.0 = Release|Any CPU
+		{AE9A3D2C-21B5-41F8-85E9-196BE68D2EFB}.Release|x86.ActiveCfg = Release|Any CPU
+		{AE9A3D2C-21B5-41F8-85E9-196BE68D2EFB}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AE9A3D2C-21B5-41F8-85E9-196BE68D2EFB} = {4999A393-3DA7-F281-F13A-F9FD992FD574}
+	EndGlobalSection
+EndGlobal

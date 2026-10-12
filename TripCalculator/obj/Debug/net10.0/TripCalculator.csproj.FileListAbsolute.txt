@@ -1,0 +1,15 @@
+C:\Users\adria\OneDrive\Documents\Intro to CS\Lab02-trip\TripCalculator\bin\Debug\net10.0\TripCalculator.exe
+C:\Users\adria\OneDrive\Documents\Intro to CS\Lab02-trip\TripCalculator\bin\Debug\net10.0\TripCalculator.deps.json
+C:\Users\adria\OneDrive\Documents\Intro to CS\Lab02-trip\TripCalculator\bin\Debug\net10.0\TripCalculator.runtimeconfig.json
+C:\Users\adria\OneDrive\Documents\Intro to CS\Lab02-trip\TripCalculator\bin\Debug\net10.0\TripCalculator.dll
+C:\Users\adria\OneDrive\Documents\Intro to CS\Lab02-trip\TripCalculator\bin\Debug\net10.0\TripCalculator.pdb
+C:\Users\adria\OneDrive\Documents\Intro to CS\Lab02-trip\TripCalculator\obj\Debug\net10.0\TripCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\OneDrive\Documents\Intro to CS\Lab02-trip\TripCalculator\obj\Debug\net10.0\TripCalculator.AssemblyInfoInputs.cache
+C:\Users\adria\OneDrive\Documents\Intro to CS\Lab02-trip\TripCalculator\obj\Debug\net10.0\TripCalculator.AssemblyInfo.cs
+C:\Users\adria\OneDrive\Documents\Intro to CS\Lab02-trip\TripCalculator\obj\Debug\net10.0\TripCalculator.csproj.CoreCompileInputs.cache
+C:\Users\adria\OneDrive\Documents\Intro to CS\Lab02-trip\TripCalculator\obj\Debug\net10.0\TripCalculator.dll
+C:\Users\adria\OneDrive\Documents\Intro to CS\Lab02-trip\TripCalculator\obj\Debug\net10.0\refint\TripCalculator.dll
+C:\Users\adria\OneDrive\Documents\Intro to CS\Lab02-trip\TripCalculator\obj\Debug\net10.0\TripCalculator.pdb
+C:\Users\adria\OneDrive\Documents\Intro to CS\Lab02-trip\TripCalculator\obj\Debug\net10.0\TripCalculator.genruntimeconfig.cache
+C:\Users\adria\OneDrive\Documents\Intro to CS\Lab02-trip\TripCalculator\obj\Debug\net10.0\ref\TripCalculator.dll
+C:\Users\adria\OneDrive\Documents\Intro to CS\Lab02-trip\TripCalculator\obj\Debug\net10.0\TripCalculator.sourcelink.json
